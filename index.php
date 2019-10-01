@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Complete Bootstrap 4 Website Layout</title>
+	<title>Gab Pasaporte</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
@@ -25,6 +25,7 @@
 				<li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
 				<li class="nav-item"><a href="activities.html" class="nav-link">Activities</a></li>
 				<li class="nav-item"><a href="reflections.html" class="nav-link">Reflections</a></li>
+				<li class="nav-item"><a href="certificates.html" class="nav-link">Certificates</a></li>
 				<li class="nav-item"><a href="quizes.html" class="nav-link">Quizes</a></li>
 				<!---<li class="nav-item"><a href="abooutme.html" class="nav-link">About me</a></li>--->
 			</ul>
